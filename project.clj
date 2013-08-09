@@ -1,4 +1,4 @@
-(defproject lein-scalac "0.1.0"
+(defproject lein-scalac "0.1.1-alpha1"
   :eval-in-leiningen true
-  :dependencies [[org.scala-lang/scala-compiler "2.9.1"]
-                 [lancet "1.0.1"]])
+  :dependencies [[lancet "1.0.2"]])
+
